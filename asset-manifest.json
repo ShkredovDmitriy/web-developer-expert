@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/web-developer-expert/static/css/main.635a0ee9.css",
-    "main.js": "/web-developer-expert/static/js/main.20073bd1.js",
+    "main.css": "/web-developer-expert/static/css/main.cb39df3c.css",
+    "main.js": "/web-developer-expert/static/js/main.e8f3a2c8.js",
+    "static/media/icon_instagram.svg": "/web-developer-expert/static/media/icon_instagram.976939740726538b2bf3b238fb772af9.svg",
     "index.html": "/web-developer-expert/index.html",
-    "main.635a0ee9.css.map": "/web-developer-expert/static/css/main.635a0ee9.css.map",
-    "main.20073bd1.js.map": "/web-developer-expert/static/js/main.20073bd1.js.map"
+    "static/media/icon_telegram.svg": "/web-developer-expert/static/media/icon_telegram.f620e21499d40666fbbe6d453505ba3c.svg",
+    "main.cb39df3c.css.map": "/web-developer-expert/static/css/main.cb39df3c.css.map",
+    "main.e8f3a2c8.js.map": "/web-developer-expert/static/js/main.e8f3a2c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.635a0ee9.css",
-    "static/js/main.20073bd1.js"
+    "static/css/main.cb39df3c.css",
+    "static/js/main.e8f3a2c8.js"
   ]
 }
